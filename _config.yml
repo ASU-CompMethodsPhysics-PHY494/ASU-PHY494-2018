@@ -13,7 +13,7 @@ description:         >
                      students how to use the computer as a tool to
                      solve problems in physics
 url:                 https://asu-compmethodsphysics-phy494.github.io
-baseurl:             /ASU-PHY494
+baseurl:             /ASU-PHY494-2018
 paginate:            1
 
 # About/contact
@@ -45,16 +45,16 @@ course:
  url:                https://becksteinlab.physics.asu.edu/learning/76/phy494-computational-physics
 
 resources:
- name:               ASU-CompMethodsPhysics-PHY494/PHY494-resources
+ name:               ASU-CompMethodsPhysics-PHY494/PHY494-resources-2018
  shortname:          PHY494-resources
- url:                https://github.com/ASU-CompMethodsPhysics-PHY494/PHY494-resources
- fileurl:            https://github.com/ASU-CompMethodsPhysics-PHY494/PHY494-resources/blob/master
+ url:                https://github.com/ASU-CompMethodsPhysics-PHY494/PHY494-resources-2018
+ fileurl:            https://github.com/ASU-CompMethodsPhysics-PHY494/PHY494-resources-2018/blob/master
 
 assignments:
- name:               ASU-CompMethodsPhysics-PHY494/PHY494-assignments-skeleton
+ name:               ASU-CompMethodsPhysics-PHY494/PHY494-assignments-skeleton-2018
  shortname:          PHY494-assignments
- url:                https://github.com/ASU-CompMethodsPhysics-PHY494/PHY494-assignments-skeleton
- fileurl:            https://github.com/ASU-CompMethodsPhysics-PHY494/PHY494-assignments-skeleton/blob/master
+ url:                https://github.com/ASU-CompMethodsPhysics-PHY494/PHY494-assignments-skeleton-2018
+ fileurl:            https://github.com/ASU-CompMethodsPhysics-PHY494/PHY494-assignments-skeleton-2018/blob/master
  
 
 org:
@@ -69,8 +69,8 @@ wiki:
 
 nbviewer:
    show:             http://nbviewer.jupyter.org/github
-   resources:        http://nbviewer.jupyter.org/github/ASU-CompMethodsPhysics-PHY494/PHY494-resources/blob/master
-   slides:           http://nbviewer.jupyter.org/format/slides/github/ASU-CompMethodsPhysics-PHY494/PHY494-resources/blob/master
+   resources:        http://nbviewer.jupyter.org/github/ASU-CompMethodsPhysics-PHY494/PHY494-resources-2018/blob/master
+   slides:           http://nbviewer.jupyter.org/format/slides/github/ASU-CompMethodsPhysics-PHY494/PHY494-resources-2018/blob/master
 
 
 #--------------------------------------------------------------------------------
